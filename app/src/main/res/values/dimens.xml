@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontNombre">30dp</dimen>
+    <dimen name="contentMargen">16dp</dimen>
+    <dimen name="fontFono">12dp</dimen>
+    <dimen name="mrgTopLy">10dp</dimen>
+    <dimen name="mrgLeftText">10dp</dimen>
+
+</resources>

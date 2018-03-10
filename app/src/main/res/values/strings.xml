@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tvNombre">Nombre Completo</string>
+    <string name="tvTelefono">Numero Telefónico</string>
+    <string name="tvEmail">Correo Electronico</string>
+    <string name="tvFecha">dd/mm/yyyy</string>
+    <string name="tvDescripcion">Descripcion</string>
+    <string name="stTitutlo">My Titulo</string>
+    <string name="nombre">nombre</string>
+    <string name="telefono">telefono</string>
+    <string name="email">email</string>
+    <string name="descripcion">descripcion</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditar">Editar</string>
+</resources>
